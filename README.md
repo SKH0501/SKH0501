@@ -24,7 +24,7 @@ ___
 <br>
 <h3 align="center"> 🔗 Link </h3>
 <div align="center">
- <a href="https://velog.io/SKH0501" target="_blank">
+ <a href="https://velog.io/@skh_0501/posts" target="_blank">
     <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=velog&logoColor=white"/>
    </a>
 </div>
