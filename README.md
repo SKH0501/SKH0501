@@ -1,4 +1,7 @@
 ## Hi there 👋
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj={tlsrudgus050})](https://solved.ac/{tlsrudgus050})
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=tlsrudgus050&theme=warm)
 
 <!--
 **SKH0501/SKH0501** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
